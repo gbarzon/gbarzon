@@ -9,6 +9,8 @@
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarzon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://komarev.com/ghpvc/?username=gbarzon&style=flat-square&color=yellowgreen" alt=""/>
+
 <!--
 **gbarzon/gbarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
