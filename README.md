@@ -7,6 +7,8 @@
 - Intrigued by how the complex structure of the brain, both at the meso and macro scales, drives the emergence of complex dynamical and behavioral patterns, how these patterns are altered during diseases, and how we can design interventions to restore normal functionality.
 
 ##
+![Snake animation](https://github.com/gbarzon/gbarzon/blob/output/github-contribution-grid-snake.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbarzon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=gbarzon&style=flat-square&color=yellowgreen" alt=""/>
