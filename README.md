@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- M.Sc. in Physics of Data at the University of Padova. This program provided me with a comprehensive understanding of both Physics and Data Science, and I find it fulfilling to merge analytical and computational methods to tackle research challenges.
+- M.Sc. in Physics of Data at the University of Padova
 
 - Ph.D. in Neuroscience at the Padova Neuroscience Center, University of Padova, Italy, working under the supervision of Samir Suweis from the Laboratory of Interdisciplinary Physics and Manlio De Domenico from the CoMuNe Lab.
 
